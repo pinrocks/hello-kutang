@@ -1,6 +1,6 @@
 {
   "name": "hello-kutang",
-  "version": "1.0.5",
+  "version": "sse",
   "description": "hello worlds",
   "main": "index.js",
   "repository": "https://github.com/pinrocks/hello-kutang.git",
